@@ -57,7 +57,7 @@ Diffusion models have a wide range of applications, particularly in generative t
 - **Audio Synthesis:** Diffusion models are also applied to audio generation tasks, where they learn to generate high-quality audio samples from noise.
 - **Data Augmentation:** Diffusion models can create new samples to augment limited datasets, improving model robustness in downstream tasks.
 
-## Libraries Used
+## Libraries Used 
 
 The following libraries were used in this project:
 
