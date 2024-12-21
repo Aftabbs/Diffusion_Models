@@ -8,7 +8,7 @@ Diffusion models are a class of generative models that learn to generate data by
 
 The primary idea behind diffusion models is to slowly transform data into random noise over a series of steps, then learn to reverse this process by training a neural network to remove the noise step-by-step. This process, known as *denoising*, ultimately allows the model to generate high-quality data that resembles the training data.
 
-## How Diffusion Models Work
+## How Diffusion Models Work 
 
 Diffusion models work through a two-stage process:
 1. **Forward Process (Diffusion):** Starting from a real data sample, noise is added to it gradually across a sequence of time steps until it resembles pure Gaussian noise.
