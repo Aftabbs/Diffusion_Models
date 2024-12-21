@@ -2,7 +2,7 @@
   
 ![image](https://github.com/user-attachments/assets/fdba0dad-ba18-4470-9a21-3f7c3050041c) 
 
- 
+  
 ## Overview  
 Diffusion models are a class of generative models that learn to generate data by modeling the process of gradually adding noise to data and then reversing this process to produce realistic samples. Originally developed for image generation tasks, diffusion models have recently shown great promise in creating high-quality images, audio, and even text.
 
